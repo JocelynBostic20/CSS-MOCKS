@@ -1,2 +1,2 @@
 # CSS-MOCKS
-All parts uploaded separately!
+All parts uploaded together commented out!
