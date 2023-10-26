@@ -28,8 +28,8 @@ body {
   height: 100px;
   background-color: blue;
 }
-.two,.three,.four{
+/* .two,.three,.four{
   position: relative;
   top: 3rem;
   left: 3rem;
-}
+} */
